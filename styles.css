@@ -75,7 +75,9 @@ footer {
     border-radius: 50%; /* Apply rounded corners to the image */
     margin-bottom: 20px;
 }
-
+.group-project-gif {
+    text-align: center;
+}
 #about p {
     color: #666;
     margin: 5px 0;
